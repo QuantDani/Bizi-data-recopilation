@@ -45,6 +45,8 @@ if __name__ == "__main__":
     # numero total de registros que harmeos cada dia
     total_registros = 0
 
+    send_message("Bot iniciado. Comienza la recopilacion de datos.")
+
     while True:
         time.sleep(1)
         now = datetime.now()
