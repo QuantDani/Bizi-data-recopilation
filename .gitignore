@@ -2,6 +2,7 @@
 data.csv
 tiempo.jsonl
 *.log
+bizi.ppk
 
 # === Variables de entorno ===
 .env

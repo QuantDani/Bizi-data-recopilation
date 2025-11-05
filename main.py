@@ -6,7 +6,24 @@ import time
 import random
 import os
 import logging
+from logging.handlers import WatchedFileHandler
 import json
+
+LOG_FILE = "app.log"
+LOG_FORMAT = '%(asctime)s - %(levelname)s - %(message)s'
+LOG_LEVEL = logging.INFO
+
+# 2. Crea un "formateador" para definir cómo se ven los logs
+formatter = logging.Formatter(LOG_FORMAT)
+
+# 3. Esta es la MAGIA:
+handler = WatchedFileHandler(LOG_FILE)
+handler.setFormatter(formatter) 
+
+# 4. Obtén el logger "raíz" y configúralo
+logger = logging.getLogger() 
+logger.setLevel(LOG_LEVEL)   
+logger.addHandler(handler)   
 
 # cargamos las variables de entorno
 from dotenv import load_dotenv
