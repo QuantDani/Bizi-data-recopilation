@@ -1,0 +1,17 @@
+# === Ficheros de Datos y Logs ===
+data.csv
+tiempo.jsonl
+*.log
+
+# === Variables de entorno ===
+.env
+
+# === Ficheros de Entorno Virtual ===
+/Include
+/Lib
+/Scripts
+pyvenv.cfg
+
+# === Ficheros de Python Compilados ===
+__pycache__/
+*.pyc

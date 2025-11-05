@@ -1,0 +1,275 @@
+Id,Title
+2,1-Palacio Congresos
+3,81-Tauromaquia
+4,2-Pabellón Aragón
+5,70-Picasso: Zambrano
+6,60-Bielsa: Cnos. Norte
+7,83-Majas de Goya
+8,31-Gargallo: Parq. Aljafería
+9,34-Coso Bajo
+10,77-Allende: Picasso
+11,80-Academia Gral: Allende
+12,23-Ribera. Azud
+13,57-Sobrarbe: Ribera
+14,56-Oriente: Betoré
+15,95-Longares: Fuendejalón
+16,55-M. Cadena: M. Asso
+17,59-Plaza Mozart
+18,76-S. Juan Peña: Juslibol
+19,78-Jardines Concordia
+20,75-Salvador Allende
+21,6-Ribera: Pte. del Pilar
+22,68-Zambrano: Saura
+23,14-Delicias Salidas
+24,13-Avda. Francia
+25,73-Avellaneda: Xirgu
+26,67-Campoamor: Grancasa
+27,94-Kasan
+28,66-Neruda: Celaya
+29,5-Macanaz
+30,65-Intercambiador Zambrano
+31,4-Atarés: Pte. Almozara
+32,3-Actur: Voluntariado
+33,7-Parque Tenerías
+34,8-Puerta del Sol
+35,9-Echegaray. Pte. Piedra
+36,10-Echegaray. Pte. Santiago
+37,11-Pza. Europa
+38,12-Almozara: Voluntariado
+39,30-Pta. Sancho: Gargallo
+40,87-Aljafería: M.ª Agustín
+41,89-Echegaray: Postigo Ebro
+42,18-Beltrán Martínez
+43,41-Pza. Schweitzer
+44,104-Madre Rafols: DGA
+45,118-J. Carlos I: Aragonia
+46,29-Palacio Aljafería
+47,42-Fleta. Uncastillo
+48,47-S. Francisco: Universidad
+49,61-Peña Oroel
+50,15-Portillo
+51,54-Calanda: Madrid
+52,126-Sanz Ibáñez: Rioja
+53,129-Graus: Unceta
+54,51-Plaza Roma
+55,102-Teatro Romano
+56,119-Sainz Varanda: J. Carlos I
+57,125-Parq. Delicias: Univérsitas
+58,16-Pza. España
+59,17-Constitución: Pza. Aragón
+60,19-Asalto. Servet
+61,21-Aranda: C. Augusto
+62,24-S. Pedro Nolasco
+63,25-Plaza Los Sitios
+64,26-Pta. del Carmen
+65,27-CP Joaquín Costa
+66,36-Silvestre Pérez
+67,37-Ballesteros
+68,38-Roger Tur
+69,39-Alierta: Cno. Torres
+70,40-Alierta: Burriel
+71,43-Goya: Domenech
+72,44-Sagasta: Cno. Torres
+73,45-Gran Vía. Paraninfo
+74,46-Goya. Gracián
+75,49-Gta. Zagríes
+76,50-S. J. Bosco: Universidad
+77,52-Villahermosa: F. y López
+78,90-Bretón: Claret
+79,91-S. Francisco: Fdo. Católico
+80,92-S. Juan Cruz: Lasala
+81,93-Matadero
+82,97-Constitución: Escar
+83,98-Gta. Sasera
+84,99-Sta. Engracia
+85,100-Pza. del Carmen
+86,101-Dr. Iranzo: Benlliure
+87,103-Lacarra Miguel: S. Vte. Mártir
+88,106-Arz. Morcillo: Soria
+89,107-Lasala: Vives
+90,108-Emperador Carlos V
+91,109-H. Miguel Servet
+92,110-Ciudad de Toulouse
+93,111-Hispanidad: Condes Aragón
+94,112-Hispanidad: Conservatorio
+95,113-Hispanidad: Gómez Laguna
+96,114-Hispanidad: Villahermosa
+97,115-Hispanidad: Atlántico
+98,121-Auditorio
+99,122-Gmez. Laguna: Univérsitas
+100,123-Hosp. Clínico
+101,130-Corona Aragón: Arenal
+102,53-Juan XXIII
+103,62-Cnos. Norte: M. Cadena
+104,71-Legaz Lacambra: Paz
+105,74-Picasso: Aleixandre
+106,116-Parq.Delicias: Ciudadela
+107,124-Univérsitas: Villahermosa
+108,128-Calanda: Bolivia
+109,69-Picasso: Zamora Sarrate
+111,28-Pignatelli: Pza. Toros
+112,32-Hospital Provincial
+113,33-Echegaray: El Pilar
+114,262- Pza. Sto. Domingo
+115,72-Zambrano: Iglesias
+116,84-Parq. Tapices Goya
+117,85-Gargallo: Jardines Atenas
+118,86-Almozara: Batalla Arapiles
+119,88-M.ª Callas: Casanova
+120,235-Ferreiro: Comín Ros
+121,237-Navarra: C.C. Augusta
+122,275-Biarritz: Sender
+123,167-Cuéllar: Vista Alegre
+124,168-Pza. Uno de Mayo
+125,170-Tetuán: Neptuno
+126,269-Hosp. Infantil
+127,158- Alierta: Dos de Enero
+128,161- Alierta: Cno. Junco
+129,166- Nápoles: Zaragoza La Vieja
+130,198- Fleta: Rosellón
+131,48- H. Cortés: Pza. Arregui
+132,58- Valle Zuriza: Cataluña
+133,79- Allende: Rotellar
+134,164- Rosales: Illueca
+135,133- Campus. Ada Byron
+136,160 - Jardines Montemolín
+137,191- Pza. Aragón
+138,268- Gran Vía: Huerva
+139,132-Área Autocaravanas
+140,134-García Abril: D’Amicis
+141,135- Segundo Chomón
+142,261-Campus. Betancourt
+143,64-Parq. Poetas: León Felipe
+144,82-A. Gral. Militar: Majas Goya
+145,131-Atarés: Siglo XXI
+146,137-Pza. La Poesía
+147,234- Parq. Aljafería: Reino
+148,236-Navarra: H. Rguez. Miñón
+149,238-Tomás y Valiente
+150,276-Acuario Zaragoza
+151,117-J. Carlos I: Villahermosa
+152,136-Facultad Medicina
+153,239-Parq. Sedetania: Brea
+154,255-Avda. Madrid: Enlaces
+155,120-Asín y Palacios: El Grande
+156,169-Vicente Basanta: Melilla
+157,171-Parq. Pignatelli
+158,172-Ruiseñores: Cejador Frauca
+159,159-Parq. La Granja: Galiay
+160,163-La Granja: Est. Miraflores
+161,165-Pza. Mayor
+162,267-Príncipe Felipe
+163,155-Yolanda Bar: M.ª Aragón
+164,157-Pza. F. Aguayo
+165,162-Veterinaria
+166,266-Pza. Utrillas
+167,153- Torre Ramona: Higuera
+168,154-Torre Ramona: Dr. Iranzo
+169,156-F. Luis Urbano: Caspe
+170,265- Batalla Pavía: Caspe
+171,35-Comuneros: Minguijón
+172,151-Minguijón: Rebolledo
+173,152-La Amistad: F. Luis Urbano
+174,271-Cosuenda: Longares
+175,138-Rda. Hispanidad: Cataluña
+176,148-Felisa Galé: Oto
+177,149-Felisa Galé: Orensanz
+178,264-Burriel: Zapater
+179,63-Broto: Guara
+180,139-Cataluña: Sta. Fe
+181,140-Cataluña: I. Sto. Domingo
+182,141-Cataluña: Aguas Vivas
+183,96-Pomarón: Pº La Mina 
+184,105-Dr. Horno: Sacramento
+185,173-Pignatelli: Ruiz Tapiador
+186,175-Pza. Las Canteras
+187,176-Tierno Galván: S. Ramírez
+188,258- Parq. Maska: Rallo Lahoz
+189,206-Lagos Coronas: Astún
+190,181-Castellar: Lasierra Purroy
+191,182- Parq. La Paz
+192,183- Corazón de Jesús: Padua
+193,184- Cuarta Avenida: Oviedo
+194,201-Lagos Coronas: Leyva
+195,174- Octavio Toledo: Buenavista
+196,177- Fray J. Garcés: Boente
+197,178- Pinar: Cuarte
+198,179-Fray J. Garcés: Lerga Luna
+199,180- V. Huarte: Barbastro
+200,185- Cuarta Avenida: Montecarlo
+201,186- Cuarta Avenida: Magaña
+202,188- Pza. San Marcos
+203,187- Pza. Marco Polo
+204,203- Lagos Llosas: Solana
+205,209- Puente Los Suspiros
+206,210- Rda. Hispanidad: Tiziano
+207,202- Lagos Coronas: Camisera
+208,205- Lagos Alba: Trigoniero
+209,207- Cno. Pilón: Orozco
+210,208- Ibón Plan: Cno. Pilón
+211,251- Millán Serrano: Orquídea
+212,241- A. Príncipe: Anillo Verde
+213,259- Cno. Pilón: Oriz García
+214,260- Ibón Armeña: Cno. Pilón
+215,274- Cno. Pilón: Pz. Peñetas
+216,240- Hispanidad: Rallo Lahoz
+217,242- Rguez. Ayuso: Enlaces
+218,253- Rguez. Ayuso 58
+219,257- Bosqued: Pasteur
+221,204- Leyva: S. Alberto Magno
+222,256- Parq. Oeste: S. A. Magno
+223,273- Cáncer: Camisera
+224,243- Anillo Verde: Rguez. Ayuso
+225,250- Biel: Hortensia
+226,254- Leyva: Anillo Verde
+227,245- Campillo Llerena
+228,247- Centauro: Argos
+229,249- Pza. Inmaculada
+230,252- Estrellas: Orión
+231,272- S. Juan B. Salle: Piquero
+232,194- Parq. Los Incrédulos
+233,195- Sagrada Familia
+234,246- Pza. Armonía
+235,248- Orión: Ozanam
+236,192- Olivar: Quirón
+237,196- Argualas: El Greco
+238,244- Gmez. Laguna: Hayedo
+239,197- Vía Ibérica: Cno. Almotilla
+240,199- Argualas: Sabocos
+241,200- Pza. Bámbola
+242,223- Ilustración 21
+243,225- Ilustración: Mesta
+244,226- Camping Rosales
+245,228- Wagner: Beethoven
+246,229- J. Rodrigo: Beethoven 
+247,211- Los Olvidados: Mercado
+248,214- Ciud. Kane: Los Pájaros
+249,230- Beethoven: Schubert
+250,212- Los Olvidados: Shangai
+251,216- Ilustración: Jovellanos
+252,231- Heroínas Sitios: Gómara
+253,233- 21 de Junio: Miguelete
+254,218- Desayuno Diamantes
+255,219- Tomás Lezáun: Ilustración
+256,220- Isla del Tesoro: Titanic
+257,221- Casablanca: L. Schindler
+258,213- Pza. Edad de Oro
+259,215- Veracruz: Manhattan
+260,217- Isla Tesoro: Resplandor
+261,227- Patio Naranjos: Rolando
+262,145- Avda. Estudiantes
+263,146- Pza. Serrano Berges
+264,222- Americano París: Jard. Alá
+265,232- Cañones Zaragoza: Tella
+266,143- Sta. Isabel: Víctor Jara
+267,144- Ostáriz Forcén: Brazal
+268,147- Norte: Iglesia
+269,263- Avda. Real Zaragoza
+270,22- Delicias Llegadas
+271,142- Ávila: Valencia
+272,189- Puerto Venecia Oeste
+273,224- Manuel Viola
+274,190- Puerto Venecia Este
+277,150- Mrio. Siresa: Dr. Iranzo
+278,270- Delicias Autobuses
+279,193- Pza. La Ermita
